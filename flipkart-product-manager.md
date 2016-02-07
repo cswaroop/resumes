@@ -29,7 +29,7 @@ EKA is world leader for Commodity management software.
 
 Lead a New Product Initiative developing a supply chain and logistics optimization software for CPG industries.
 
-### Senior Manager, Data anlytics, Ocwen Financial (May 2000 - Aug 2012)
+### Senior Manager, Data anlaytics, Ocwen Financial (May 2000 - Aug 2012)
 
 Modeled an optimal credit resolution model and operationalized it for faster debt management.  Also built a model for portfolio pricing of RMBS securities.
 
