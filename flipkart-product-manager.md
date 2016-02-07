@@ -27,7 +27,7 @@ Consulted with various companies for modeling and deployment.
 ### Engineering Manager, Supply Chain Analytics, EKA Software (Dec 2012 - Aug 2014)
 EKA is a leader in commodity management software.
 
-Lead a New Product Initiative developing a supply chain and logistics software for CPG industries optimizing Suppliers, Processors, Warehouses, Stores, Products etc. minimizing the costs.  The solution allows to create various what-if scenarios for catering to real-time needs.
+Lead a New Product Initiative developing a supply chain and logistics software for CPG industries optimizing Suppliers, Processors, Warehouses, Stores, Products etc. minimizing the costs.  The solution allows to create various what-if scenarios simulation for catering to real-time needs.
 
 ### Senior Manager, Data anlaytics, Ocwen Financial (May 2010 - Aug 2012)
 
@@ -42,6 +42,8 @@ Lead a New Product Initiative developing a supply chain and logistics software f
 * Multi Auction Platform - Developed a sourcing platform to conduct auctions from vendors for a confectionary world leader.
 
 * Developed a Spend management solution for large defense supplier by devising an automated part matching and classification system using machine learning.
+
+* Developed a descrete event simualtion for a business process management software
 
 ## Skills
 
