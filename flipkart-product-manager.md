@@ -6,7 +6,7 @@ Bangalore
 cswaroop@gmail.com
 ```
 
-Swaroop Chalasani is Senior Consultant at FICO.  Swaroop has 15 years experience in operationalizing analytics in variety of business domains including supply chain operations, credit risk, portfolio optimization, fraud and healthcare.  Created high business value with automated decision support systems applying operations research, machine learning and statistics leveraging big data in large scale computing infrastructures.
+Swaroop Chalasani is Senior Consultant at FICO.  Swaroop has 15 years experience in operationalizing analytics in variety of business domains including supply chain operations, credit risk, portfolio optimization, fraud and healthcare.  Created high business value with automated decision support systems applying operations research, machine learning, statistics and simulation leveraging big data in large scale computing infrastructures.
 
 ## Education
 
