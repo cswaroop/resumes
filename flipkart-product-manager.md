@@ -6,7 +6,7 @@ Bangalore
 cswaroop@gmail.com
 ```
 
-Swaroop Chalasani is Senior Consultant at FICO.  Swaroop has 15 years experience in operationalizing analytics in variety of business domains including supply chain operations, credit risk, portfolio optimization, fraud and healthcare.  Created high business value with automated decision support systems applying operations research, machine learning, statistics and simulation leveraging big data in large scale computing infrastructures.
+Swaroop Chalasani is Senior Consultant at FICO.  He has 15 years of experience in operationalizing analytics in variety of business domains including supply chain operations, credit risk, portfolio optimization, fraud and healthcare.  Created high business value with automated decision support systems applying operations research, machine learning, statistics and simulation leveraging big data in large scale computing infrastructures.
 
 ## Education
 
@@ -29,7 +29,7 @@ EKA is a leader in commodity management software.
 
 Lead a New Product Initiative developing a supply chain and logistics software for CPG industries optimizing Suppliers, Processors, Warehouses, Stores, Products etc. minimizing the costs.  The solution allows to create various what-if scenarios simulation for catering to real-time needs.
 
-### Senior Manager, Data anlaytics, Ocwen Financial (May 2010 - Aug 2012)
+### Senior Manager, Data analytics, Ocwen Financial (May 2010 - Aug 2012)
 
 * Modeled an optimal credit resolution model and operationalized it for maximizing NPV value.  
 
