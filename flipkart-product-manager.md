@@ -35,7 +35,7 @@ Lead a New Product Initiative developing a supply chain and logistics software f
 
 * Modeling portfolio pricing of RMBS securities for servicing.
 
-### Software Engineer, IBM (Apr 2000 - March 2010)
+### Software Engineer, IBM Research (Apr 2000 - March 2010)
 
 * Product Design & operations scheduling (PDOS) - Built a scheduling system for steel manufacturing operations.  Optimization model includes Mixed Integer Programming and Constraint Solver.  Developed the system in C++ and CPLEX.
 
