@@ -37,11 +37,11 @@ Lead a New Product Initiative developing a supply chain and logistics software f
 
 ### Software Engineer, IBM Research (Apr 2000 - March 2010)
 
-* Product Design & operations scheduling (PDOS) - Built a scheduling system for steel manufacturing operations.  Optimization model includes Mixed Integer Programming and Constraint Solver.  Developed the system in C++ and CPLEX.
+* Product Design & operations scheduling [PDOS](http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=4567) - Built a scheduling system for steel manufacturing operations.  Optimization model includes Mixed Integer Programming and Constraint Solver.  Developed the system in C++ and CPLEX.
 
 * Multi Auction Platform - Developed a sourcing platform to conduct auctions from vendors for a confectionary world leader.
 
-* Developed a Spend management solution for large defense supplier by devising an automated part matching and classification system using machine learning.
+* Developed a [Spend management solution](http://sigmod.hosting.acm.org/sigmodwp/publications/discs/2006/out/a_swaroop_k_chalasan.htm) for large defense supplier by devising an automated part matching and classification system using machine learning.
 
 * Developed a descrete event simualtion for a business process management software
 
