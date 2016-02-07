@@ -18,7 +18,7 @@ Swaroop Chalasani is Senior Consultant at FICO.  Swaroop has 15 years experience
 ### Senior Consultant, FICO India (Apr 2015 -]
 FICO is a decision analytics leader. FICO score is used in all credit risk decisions in US and 2/3 of all credit card transactions uses FICO Fraud detection. FICO optimization is used in all segments including Ecommerce, Ad optimization, NFL scheduling etc.
 
-Working with clients for their business problems. Uses Risk Scoring, automated decisioning, large scale optimization for solving business problems including deal pricing optimization, marketing optization, fleet scheduling and logistics.
+Working with clients for their business problems. Uses Risk Scoring, automated decisioning, large scale optimization for solving business problems including deal pricing optimization, marketing optimization, fleet scheduling and logistics.
 
 ### Independent Consultant (Sep 2014 - Mar 2015)
 
