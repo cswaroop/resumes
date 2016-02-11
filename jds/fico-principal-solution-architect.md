@@ -1,6 +1,10 @@
-# Job Summary
+# Principal Solution Consultant/Architect
+
+## Job Summary
+Overview
+
 FICO’s Professional Services Division provides client services to manage the execution and delivery of FICO solutions. Our mission is to provide value to our clients by delivering solutions and services enabling, creating, building and strengthening their customer relationships. We help our clients improve customer loyalty, market share, and manage fraud risk in a dynamic changing market place by leveraging FICO world-class analytics, scores, tools and innovative applications.
-# Job Description
+## Job Description
 
 The Senior Consultant will be an integral part of the technical team responsible for implementation of FICO Solutions comprised of FICO products and customized frameworks. The Senior Consultant will focus in the following areas:
 
@@ -18,7 +22,7 @@ The Senior Consultant will be an integral part of the technical team responsible
 
 * Improvement Focus - Consider the effectiveness of existing processes and suggest improvements. Collaborate with peers to 'productize' solutions, enabling a 'mass customization’ operational approach to future opportunities.
 
-Ideal Candidate Experience:
+### Ideal Candidate Experience:
 
 
 * BS degree in Computer Engineering/Science or similar technical degree.
