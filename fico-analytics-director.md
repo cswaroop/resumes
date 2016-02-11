@@ -6,16 +6,17 @@ Bangalore
 cswaroop@gmail.com
 ```
 
-Swaroop Chalasani is Senior Consultant at FICO.  He has 15 years of experience in operationalizing analytics in variety of business domains including supply chain, consumer analytics, credit risk, portfolio optimization, fraud and healthcare.  Created high business value with automated decision support systems applying operations research, machine learning, statistics and simulation leveraging big data in large scale computing infrastructures.
+Swaroop Chalasani is Business Consultant at FICO with 15 years of experience in operationalizing analytics in variety of business domains including supply chain, consumer analytics, credit risk, portfolio optimization, fraud and healthcare.  Created high business value with automated decision support systems applying operations research, machine learning, statistics and simulation leveraging big data in large scale computing infrastructures.
 
 ## Education
 
 * M.Tech, IIT Kanpur
 * B.Tech, NIT Warangal
 
+
 ## Professional Experience
 
-### Senior Business Consultant, FICO (Apr 2015]
+### Senior Consultant, Analytic Applications, FICO (Apr 2015]
 
 Provides statistical analysis and predictive modeling services as part of the consumer analytics.
 
@@ -32,7 +33,7 @@ Anlaytics engagements in supply chain and logistics for CPG industries optimizin
 
 Lead high performance analytic talent.
 
-### Senior Manager, Data analytics, Ocwen Financial (May 2010 - Aug 2012)
+### Senior Manager, Data Analytics, Ocwen Financial (May 2010 - Aug 2012)
 
 * Modeled an optimal credit resolution model and operationalized it for maximizing NPV value.  
 
@@ -42,7 +43,7 @@ Lead high performance analytic talent.
 
 ### Software Engineer, IBM Research (Apr 2000 - March 2010)
 
-* Product Design & operations scheduling [PDOS](http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=4567) - Built a scheduling system for steel manufacturing operations.  Optimization model includes Mixed Integer Programming and Constraint Solver.  Developed the system in C++ and CPLEX.
+* Product Design & operations scheduling [PDOS](http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=4567) - Built a production scheduling system for steel manufacturing operations.  Optimization model includes Mixed Integer Programming and Constraint Solver.  Developed the system in C++ and CPLEX.
 
 * Multi Auction Platform - Developed a sourcing platform to conduct auctions from vendors for a confectionary world leader.
 
