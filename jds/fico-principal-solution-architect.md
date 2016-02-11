@@ -16,7 +16,7 @@ The Senior Consultant will be an integral part of the technical team responsible
 
 * Technology - Lead the analysis of new/ existing architectures, specifies long term direction, and ensures engineering platforms meet throughout and reliability expectations.
 
-*Technical Leadership - Oversee developers responsible for individual domains of change or equivalent, or subsets thereof. May lead a cross-functional team that analyzes designs and implements architectures of projects.
+* Technical Leadership - Oversee developers responsible for individual domains of change or equivalent, or subsets thereof. May lead a cross-functional team that analyzes designs and implements architectures of projects.
 
 * Presentation - Translate and present complex technical data to non-technical personnel internally and with customers.
 
