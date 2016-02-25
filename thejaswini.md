@@ -1,10 +1,9 @@
 # Thejaswini Ramachandra
+
 ## Senior Product Manager, IBM Cloud
 
 thejaswini12@gmail.com
-
 +91-9008029891
-
 Bangalore
 
 ## Summary
@@ -24,7 +23,7 @@ Bangalore University
 
 ### Industry Conference Panelist:
 
-* Panel discussion “Telcos response to the swiftly changing world and A Need to focus on to raise telecom application developers” at Virtueinsights 3rd Annual Mobile Apps conference held at Bangalore on July 17th 2014
+* Panel discussion "Telcos response to the swiftly changing world and A Need to focus on to raise telecom application developers" at Virtueinsights 3rd Annual Mobile Apps conference held at Bangalore on July 17th 2014
 http://www.virtueinsight.com/telecom/3rd-Annual-Mobile-Apps-2014/
 
 * Panel discussion “Mobile for Development” at Apps India 2015 conference held at New Delhi on August 19th 2015
@@ -69,10 +68,5 @@ Responsible for design, prototype, develop and coordinate with cross-teams  in d
 ### Senior Software Engineer – IBM Software Group 2000-2004
 
 Developed a rule based tool to transform software log events into the standard situational event format as a part of IBM’s vision of self healing systems termed as autonomic computing.
-Played several roles from testing, support to development of IBM’s flagship Application server called Websphere Application Server. 
 
-
-
-
-
-
+Played several roles from testing, support to development of IBM’s flagship Application server called Websphere Application Server.
