@@ -11,13 +11,8 @@ Product leader with 15+ years of experience delivering market leading enterprise
 
 ## Education
 
-Master of Business Administration (MBA), Executive Post Graduate Program
-Indian Institute of Management (IIM), Kozhikode
-2013-2015
-
-Bachelor of Engineer (BE), Computer Science
-Bangalore University
-1995-1999
+* Master of Business Administration (MBA), Executive Post Graduate Program, Indian Institute of Management (IIM), Kozhikode, 2013-2015
+* Bachelor of Engineer (BE), Computer Science, Bangalore University, 1995-1999
 
 ## Accomplishments
 
@@ -69,4 +64,4 @@ Responsible for design, prototype, develop and coordinate with cross-teams  in d
 
 Developed a rule based tool to transform software log events into the standard situational event format as a part of IBM’s vision of self healing systems termed as autonomic computing.
 
-Played several roles from testing, support to development of IBM’s flagship Application server called Websphere Application Server.
+Played several roles from testing, support to development of IBM’s flagship Application server called Websphere Application Server
