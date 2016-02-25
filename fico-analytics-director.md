@@ -6,42 +6,46 @@ Bangalore
 cswaroop@gmail.com
 ```
 
-Swaroop Chalasani is Business Consultant at FICO with 15 years of experience in operationalizing analytics in variety of business domains including supply chain, consumer analytics, credit risk, portfolio optimization, fraud and healthcare.  Created high business value with automated decision support systems applying operations research, machine learning, statistics and simulation leveraging big data in large scale computing infrastructures.
+Swaroop Chalasani has 15 years of experience in large scale data sciences and engineering,  operationalizing analytics in variety of business domains including supply chain, consumer analytics, credit risk, portfolio optimization, fraud and healthcare.  Created high business value with automated decision support systems applying operations research, machine learning, statistics and simulation leveraging big data in large scale computing infrastructures.
 
 ## Education
 
-* M.Tech, IIT Kanpur
-* B.Tech, NIT Warangal
+* M.Tech, Robotics and AI from IIT Kanpur
+* B.Tech, Mechanical Engineering from NIT Warangal
 
 
 ## Professional Experience
 
-### Senior Consultant, Analytic Applications, FICO (Apr 2015]
+### Senior Consultant, Decision Management, Fair Isaac Corp (Apr 2015]
 
-Provides statistical analysis and predictive modeling services as part of the consumer analytics.
-
+Provides predictive modeling and optimization services as part of rolling out origination strategies in banking and telecom.
 Working with clients for their business problems in credit risk and customer segmentation. Uses scorecard, automated decisioning, optimization for solving business problems including deal pricing optimization, marketing optimization, fleet scheduling and logistics, BASEL PD, EAD, LGD modelling.
 
 
 ### Independent Consultant (Sep 2014 - Mar 2015)
-Consulted with various companies for modeling and deployment.
 
-### Senior Manager, CPG Analytics, EKA Software (Dec 2012 - Aug 2014)
+Created a Web/Mobile analytics infrastructure.
+
+### Senior Manager, Data Analytics, EKA Software (Dec 2012 - Aug 2014)
 EKA is a leader in commodity management software.
 
-Anlaytics engagements in supply chain and logistics for CPG industries optimizing Suppliers, Processors, Warehouses, Stores, Products etc. minimizing the costs.  The solution allows to create various what-if scenarios simulation for catering to real-time needs. Modeled marketing mix, price promotion and forecasting and presented to clients in presales.
+Analytics engagements in supply chain and logistics for CPG industries optimizing Suppliers, Processors, Warehouses, Stores, Products etc. minimizing the costs.  The solution allows to create various what-if scenarios simulation for catering to real-time needs. Modeled marketing mix, price promotion and forecasting and presented to clients in presales.
+
+Energy Analytics
 
 Lead high performance analytic talent.
 
 ### Senior Manager, Data Analytics, Ocwen Financial (May 2010 - Aug 2012)
 
-* Modeled an optimal credit resolution model and operationalized it for maximizing NPV value.  
+* Modeled a collections treatment optimization model for maximizing NPV value subjected to constraints on the portfolio.  
 
-* Modeling portfolio pricing of RMBS securities for servicing.
+* Modeling portfolio pricing of RMBS securities for loan servicing.
 
 * Modeled claims prediction and customer segmentation
 
-### Software Engineer, IBM Research (Apr 2000 - March 2010)
+* Hubzu.com user analytics & insight. Created AB Testing infrastructure and conducted split tests.
+
+### Analytics Team Lead, Businesss Analytics, IBM Research & Software Labs(Apr 2000 - March 2010)
 
 * Product Design & operations scheduling [PDOS](http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=4567) - Built a production scheduling system for steel manufacturing operations.  Optimization model includes Mixed Integer Programming and Constraint Solver.  Developed the system in C++ and CPLEX.
 
@@ -51,6 +55,8 @@ Lead high performance analytic talent.
 
 * Developed a descrete event simualtion for a business process management software
 
+* Healthcare Payer Analytics
+
 ## Skills
 
 ### People & Processes
@@ -59,6 +65,8 @@ People Management, Project Management, Agile software development
 
 ### Data Sciences
 Operations Research, Predictive Analytics, Decision Analytics, Statistical Modeling, Data mining, Business Intelligence, Big Data, Customer Analytics, Market Risk, Supply Chain operations scheduling
+
+Applied advanced statistical and machine learning techniques (random forest, support vector machines, neural networks, Bayesian statistics, optimization, neural networks)
 
 ### Software Engineering
 SQL, C++, Java, Python, Clojure, IBM CPLEX, FICO XPress, FICO Model Builder, QlikView, Tableau, ETL, BigData, R, Oracle, Postgres.
