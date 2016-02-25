@@ -6,7 +6,7 @@ thejaswini12@gmail.com
 Bangalore
 
 ## Summary
-15+ years of experience as a product leader delivering market leading enterprise software products. Product management ownership responsibilities for 3 IBM MobileFirst flagship offerings ($100M +).  Part of IBM worldwide team driving the technical roadmap and GTM for SaaS and on premise offerings. Partnered with sales in selling to C-Suite and worldwide development teams across North America, Europe and APAC to translate business requirements to product features. Presented IBMs MobileFirst vision in industry conferences and tradeshows. Responsibility of driving the growth of MobileFirst offerings in APAC region.
+Product leader with 15+ years of experience delivering market leading enterprise software products in IBM. Product Manger for 3 IBM MobileFirst flagship offerings ($100M +) and part of IBM worldwide Offering team driving the technical roadmap and GTM for SaaS and on premise offerings. Partnered with sales in selling to C-Suite and worldwide development teams across North America, Europe and APAC to translate business requirements to product features. Presented IBMs MobileFirst vision in industry conferences and tradeshows. Responsibility of driving the growth of MobileFirst offerings in APAC region.
 
 ## Education
 
