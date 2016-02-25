@@ -2,7 +2,9 @@
 ## Senior Product Manager, IBM Cloud
 
 thejaswini12@gmail.com
+
 +91-9008029891
+
 Bangalore
 
 ## Summary
